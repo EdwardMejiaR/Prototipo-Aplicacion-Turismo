@@ -38,7 +38,7 @@ Simulación de reserva
 Registro de proveedores
 
 Enlace al prototipo:
-[link]
+(https://www.figma.com/make/tA4H1g9y08uA19u56Bf7rk/Turismo-App-Prototipo?t=rx858PkbogOjpfuk-1&preview-route=%2Fsearch)
 
 Video de demostración
 (Agregar aquí el enlace al video)
