@@ -2,9 +2,7 @@
 Plataforma de Información Turística Patrimonial
 
 Integrantes del proyecto: 
-Juan Fernando Gaviria Morales
-
-Edward Fabian Mejía Ramírez  
+Juan Fernando Gaviria Morales, Edward Fabian Mejía Ramírez  
 Institución: Universidad Nacional Abierta y a Distancia – UNAD  
 Programa: Ingeniería de Sistemas  
 Tutor: Rubén Darío Ordoñez  
