@@ -41,7 +41,7 @@ Enlace al prototipo:
 (https://www.figma.com/make/tA4H1g9y08uA19u56Bf7rk/Turismo-App-Prototipo?t=rx858PkbogOjpfuk-1&preview-route=%2Fsearch)
 
 Video de demostración
-(Agregar aquí el enlace al video)
+(https://youtu.be/Lu97tB47Wu4)
 
 Impacto esperado
 Reducción del tiempo de búsqueda de información turística
